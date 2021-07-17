@@ -1,5 +1,3 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
-
 ## Flix Part 2
 
 ### User Stories
@@ -23,7 +21,7 @@
 
 
 
-<img src="https://submissions.us-east-1.linodeobjects.com/tech_fellow_training/gqKkInXX.gif" width=250><br>
+<img src="https://imgur.com/W41TU9z" width=250><br>
 
 ### Notes
 
